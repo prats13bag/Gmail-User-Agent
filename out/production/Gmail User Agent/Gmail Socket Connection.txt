@@ -1,0 +1,16 @@
+Properties p = new Properties();
+p.put("mail.smtp.host", "smtp.gmail.com");
+p.put("mail.smtp.port", "465");
+p.put("mail.smtp.auth", "true"); 
+p.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory"); 
+
+The Google Gmail SMTP and Pop Server requires an encrypted connection (SSL) 
+
+Properties p = new Properties();
+p.put("mail.pop3.host", "pop.gmail.com");
+p.put("mail.pop3.port", "995");
+p.put("mail.pop3.socketFactory.class", "javax.net.ssl.SSLSocketFactory"); 
+
+default port 
+Simple Mail Transfer Protocol (SMTP) - 25 
+POP3 - 110
