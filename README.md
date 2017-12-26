@@ -18,7 +18,7 @@ _**3. Limitations of this application**_
     •	 A user can use his/her gmail account only. Other web mail services are not supported at present
     •	 Only Internet Message Access Protocol (IMAP) is supported. POP3, MIME and other protocols are not supported
     •	 Single account support only. Multiple accounts can not be setup at the momemt
-    •	 Support for 'cc', 'bcc', attachments, setting up of signature, multimedia content and similar features which distiguishes a simple mailbox from others are lacking
+    •	 Support for 'cc', 'bcc', attachments, setting up of signature, multimedia content and similar features which distinguishes a simple mailbox from others are lacking
     
 _**4. Special Note**_
 
@@ -28,6 +28,6 @@ Please update the login credentials of the gmail account with which this applica
 
 At last please ensure that the gmail account which is intended to be used does not require special details to login from web gmail such as '2 step verification' and/or 'login with security question'. Kindly turn them off and then use this application. You may also be required to give permission in google accounts for using less secured application. According to google's policy user consent is required to use a less secured application. In this case since the application is not a commercial application hence google may treat this as a less secured application.
 
-_**5. Application Screens**_
+_**5. Application Main Screen**_
 
-![Application Screen](mua.JPG)
+![Application Main Screen](mua.JPG)
