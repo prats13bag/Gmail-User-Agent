@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="JTreeDemo1">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/JList,JTree,JTable/JTree/JTreeDemo.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
