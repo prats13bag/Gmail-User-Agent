@@ -1,4 +1,4 @@
-_Email User Agent for Gmail_
+﻿_Email User Agent for Gmail_
 ====================================
 
 _**1. Introduction to Mail User Agent**_
@@ -30,4 +30,4 @@ At last please ensure that the gmail account which is intended to be used does n
 
 _**5. Application Screens**_
 
-![Application Screen](mua.jpg)
+![Application Screen](mua.JPG)
